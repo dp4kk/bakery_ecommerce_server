@@ -1,4 +1,4 @@
-# bakery_ecommerce_server
+## bakery_ecommerce_server
 
 ### Payment part of bakery ecommerce application
 
